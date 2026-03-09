@@ -63,10 +63,10 @@ The business required a centralized Sales Dashboard that addressed the following
 
 ## Data Analysis Process
 
-Data Modeling: Establish relationships between order, customers, product and location
-Calculated Field: Calculate KPIs such as total sales, total profit and total quantity
-Dashboard Design: Create interactive visuals for easy insight exploration
-Insight Extraction: Identify trends, growth difference, subcategories Sales and profit
+- Data Modeling: Establish relationships between order, customers, product and location
+- Calculated Field: Calculate KPIs such as total sales, total profit and total quantity
+- Dashboard Design: Create interactive visuals for easy insight exploration
+- Insight Extraction: Identify trends, growth difference, subcategories Sales and profit
 
 ---
 
@@ -92,50 +92,41 @@ Analyzing performance from 2020 to 2023, the business has shown strong and consi
 
 ---
 
-## Insights
+## Key Insights
 
-**1. The business grew revenue by 51% over four years but profit margins are under pressure**
-From 2020 to 2023, sales grew from $484K to $733K. However, in 2023, profit grew at only +14.2% compared to sales growth of +20.4% — indicating that the business is selling more but keeping less per sale. This margin compression warrants investigation into pricing, discounting, or rising costs.
+- **Sales Growth Accelerated After the Baseline Year**;
+The business grew revenue by 51% over four years but profit margins are under pressure**
+From 2020 to 2023, sales grew from $484K to $733K.
 
-**2. 2021 was a profitability turning point**
-Despite a -2.8% decline in total sales in 2021, profit grew by +24.4%. This suggests the business improved its product mix or reduced discounting, focusing on higher-margin subcategories like Copiers and Accessories rather than volume-driven but low-margin products.
+- **A Few Products Drive Most Revenue**;
+Subcategories generating the highest sales and profit consistently across all years include Phones, Copiers, Binders, and Storage. The business relies heavily on a small number of high-performing products that act as the primary revenue engine. Copiers in particular stand out — they deliver a large profit relative to their sales volume, making them the highest-margin subcategory in the portfolio.
 
-**3. 2022 was the strongest overall year**
-2022 delivered the highest growth across all three KPIs simultaneously — Sales +29.5%, Profit +32.7%, Quantity +23.3%. Profit growing faster than sales indicates improved efficiency and margin management during this period.
+- **Some Products Reduce Overall Profitability**;
+Several subcategories generate very low or negative profit including Machines, Supplies, Fasteners, and Labels. Machines is the most concerning — it generates notable revenue but posted a loss in 2023 while also declining in sales vs the prior year. Supplies has shown persistent losses across all four years. These products reduce overall business profitability despite generating revenue.
 
-**4. Machines is a persistent loss-making subcategory**
-Machines generates notable sales volume but shows a loss bar in the profit view for 2023, and its sales declined vs the prior year. This pattern of high revenue with negative or near-zero profit makes Machines a key area of concern.
+- **Strong Seasonal Demand**;
+Sales patterns across all years show consistently higher sales toward the end of the year, with Q4 being the peak period. The lowest sales months are typically January and February. This indicates seasonal purchasing behavior likely driven by holiday demand, year-end business purchasing, and promotional campaigns.
 
-**5. Copiers consistently deliver the highest profit margin**
-Across all four years, Copiers show a disproportionately large profit bar relative to their sales bar — indicating a high-margin product. Despite not being the top seller by volume, Copiers are one of the most valuable subcategories to the business.
-
-**6. Phones drive the most revenue but with moderate margins**
-Phones consistently rank as the top subcategory by sales volume across all years, but their profit bar is proportionally smaller than Copiers — suggesting heavy competition or discounting in this category.
-
-**7. Weekly sales are concentrated with many below-average weeks**
-The weekly trends chart shows that sales and profit are driven by a small number of high-performing weeks, with the majority of weeks falling below the average. This points to a reliance on seasonal spikes rather than consistent weekly performance.
+- **High Weekly Sales Volatility**;
+Weekly sales fluctuate significantly, with occasional large spikes pushing sales far above the average weekly level. This suggests the business is heavily influenced by promotional campaigns, bulk orders, and seasonal demand fluctuations — and lacks consistent sales distribution throughout the year. Several weeks across all years also dip into negative profit territory, which is being masked by strong peak weeks.
 
 ---
 
-## Recommendations
+## Business Recommendations
 
-**1. Investigate and address Machines profitability**
-Conduct a detailed review of the Machines subcategory — including pricing, discount rates, and cost of goods. Consider whether to reprice, reduce discounts, or deprioritize this subcategory in the product strategy.
+- **Prioritize High-Profit Products**;
+Products such as Phones and Copiers should receive increased business focus. Recommended actions include increasing marketing investment, prioritizing inventory allocation, and introducing product bundles. Copiers in particular deserve greater strategic attention given their consistently high margins — scaling their volume would have an outsized positive impact on overall profitability.
 
-**2. Protect and grow the Copiers category**
-Given Copiers' consistently high profit margins, the business should invest in marketing and inventory for this subcategory to drive higher sales volume without sacrificing margins.
+- **Reevaluate Low-Profit Product Lines**;
+Products that generate low or negative profit — particularly Machines and Supplies — should be analyzed further. Possible actions include renegotiating supplier contracts, increasing product pricing, and reducing or eliminating unprofitable items. Machines requires urgent review given it is both loss-making and declining in sales. Supplies has been a multi-year loss-maker and should be considered for phase-out.
 
-**3. Review discount strategy for Phones**
-As the highest revenue subcategory with moderate margins, Phones may be subject to excessive discounting. A pricing strategy review could improve profitability without significantly impacting sales volume.
+- **Prepare for Seasonal Demand Peaks**;
+Since demand consistently increases toward the end of the year, the business should increase inventory before peak months, plan marketing campaigns earlier in Q3, and optimize supply chain readiness. This ensures the company can fully capture peak demand without stock shortages or margin-eroding last-minute procurement.
 
-**4. Address margin compression in 2023**
-With profit growing slower than sales in 2023, the business should audit its cost structure and discount patterns to prevent further margin erosion as revenue scales.
+- **Stabilize Revenue Throughout the Year**;
+To reduce weekly sales volatility and reliance on seasonal spikes, the company could implement customer loyalty programs, subscription or recurring purchase models, and consistent mid-year promotional campaigns. These strategies can help create more predictable revenue streams and reduce the risk of loss-making weeks.
 
-**5. Smooth out weekly performance**
-Given the concentration of revenue in a small number of high-performing weeks, the business should explore mid-week or off-peak promotions to distribute sales more evenly and reduce revenue volatility.
 
-**6. Build on the 2021 efficiency playbook**
-The 2021 results — where profit grew despite lower sales — demonstrate that focusing on product mix and margin management is effective. This approach should be revisited when overall growth slows.
 
 ---
 
