@@ -72,8 +72,8 @@ Insight Extraction: Identify trends, growth difference, subcategories Sales and 
 
 ## Dashboard Preview
 
-> *Add dashboard screenshot here*
-![Sales Dashboard](Sales Dashboard.png)
+<img src="Sales%20Dashboard%20(6).png" alt="Sales Dashboard">
+
 
 🔗 [View Live on Tableau Public](https://public.tableau.com/app/profile/sanni.saheed/viz/SalesDashboard_17728782444670/SalesDashboard)
 
